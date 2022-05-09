@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555171748844",
+    "project_id": "shms-android",
+    "storage_bucket": "shms-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555171748844:android:e05a5bccfec70c9caabec9",
+        "android_client_info": {
+          "package_name": "com.shms.shms_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555171748844-tgrmdrsv94u34el1mmu0te2kc3a6dovt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJwN8-Mx5XQl8xImkPKz2Mdz8fRt_Igk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555171748844-tgrmdrsv94u34el1mmu0te2kc3a6dovt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
